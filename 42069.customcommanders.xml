@@ -81,5 +81,26 @@ Whenever Bimere the Relic is dealt damage, deal that much damage to each opponen
 		<tablerow>2</tablerow>
 	</card>
 	
+	<card>
+		<name>Wild Magic</name>
+		<text>Shroud
+Whenever a player plays a nonland permanent, that player sacrifices a nonland permanent at random.
+That player then draws cards until they find a permanent, puts it on the battlefield, then shuffles all cards drawn this way back into their library.</text>
+		<prop>
+		<layout>normal</layout>
+		<side>front</side>
+		<type>Legendary Creature - Elemental</type>
+		<maintype>Creature</maintype>
+		<manacost>UUUURRRR</manacost>
+		<cmc>8</cmc>
+		<colors>UR</colors>
+		<coloridentity>UR</coloridentity>
+		<pt>6/6</pt>
+		<format-commander>legal</format-commander>
+		</prop>
+		<set rarity="common" num="004" picurl="https://www.flowersandcompany.net/wp-content/uploads/2014/06/insert-picture-here.jpg">ECCO</set>
+		<tablerow>2</tablerow>
+	</card>
+	
   </cards>
 </cockatrice_carddatabase>
