@@ -102,5 +102,29 @@ That player then draws cards until they find a permanent, puts it on the battlef
 		<tablerow>2</tablerow>
 	</card>
 	
+	<card>
+		<name>Yumeia, Dungeon Adept</name>
+		<text>Eminence-Raid Party. 
+(A party consists of an Artificer, Barbarian, Druid, and Warlock in addition to previous creature types.)
+When you cast your first party creature each turn, you may draw a card.
+This spell costs {1} less for each creature in your party.
+Sidequest?-{3}:Target creature goes on an Adventure.
+Yumeia, Dungeon Adept has all abilities of party creatures in exile.</text>
+		<prop>
+		<layout>normal</layout>
+		<side>front</side>
+		<type>Legendary Creature - Azra Advisor</type>
+		<maintype>Creature</maintype>
+		<manacost>WUBRG</manacost>
+		<cmc>5</cmc>
+		<colors>WUBRG</colors>
+		<coloridentity>WUBRG</coloridentity>
+		<pt>4/5</pt>
+		<format-commander>legal</format-commander>
+		</prop>
+		<set rarity="common" num="004" picurl="https://mtgcardsmith.com/view/complete/full/2020/9/12/1599943235089037.png">ECCO</set>
+		<tablerow>2</tablerow>
+	</card>
+	
   </cards>
 </cockatrice_carddatabase>
